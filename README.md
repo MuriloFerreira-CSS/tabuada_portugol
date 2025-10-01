@@ -43,7 +43,3 @@ O programa, então, utiliza a estrutura de repetição `para` para calcular e ex
   - `escreva` e `leia` → para interação com o usuário.
   - `para` → para gerar a tabuada de 0 até 10.
 
----
-
-## ✅ Exemplo de Execução
-
